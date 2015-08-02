@@ -1,4 +1,5 @@
 #!/usr/bin/python
 
-name = raw_input('What is your name?\n')
-print 'Hi, %s.' % name
+firstname = raw_input('What is your first name?')
+lastname = raw_input('what is your last name?')
+print 'Hi %s %s ' %(firstname, lastname)
