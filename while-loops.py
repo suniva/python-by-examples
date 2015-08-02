@@ -2,7 +2,7 @@
 
 count = 0
 while (count < 5):
-   print 'Current count is:', count
+   print 'Current count: ', count
    count = count + 1
 
-print "End of the program"
+print "\nEnd of the program"
